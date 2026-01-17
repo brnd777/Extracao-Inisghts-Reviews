@@ -31,6 +31,11 @@ O diferencial deste projeto está na abordagem estatística para isolar os "driv
 * **Pontos Fortes:** Usuários valorizam a interface ("simple easy") e que facilita a organização de hábitos e tempo ("stay organized","time management").
 * **Pontos Críticos:** O termo "last update" aparece fortemente ligado a reviews negativas, indicando regressão na qualidade após a última atualização. Além disso, os termos "premium" e "create account" indicam que é necessária uma revisão nas opções premium e na criação de contas.
 
+**Resultados
+
+<img width="1400" height="600" alt="resultados" src="https://github.com/user-attachments/assets/f9fa1117-1a1f-42c8-9747-94f24492c192" />
+
+
 ## Como Executar
 
 ### Pré-requisitos
